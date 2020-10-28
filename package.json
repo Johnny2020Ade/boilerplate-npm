@@ -1,6 +1,6 @@
 {
-	"author": "Adedoyin John Adewumi",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Adedoyin John Adewumi",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
